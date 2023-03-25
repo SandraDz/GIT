@@ -11,3 +11,4 @@ Here is the list of students that shall contribute to this part of the wiki page
 6 | Zhenya Tsonkova |  | [Link](https://github.com/ZhenyaTsonkova/TechWritingProject1/wiki) |
 7 | Presiana Simova |  | [Link](https://github.com/Grufo8/docu-2018/wiki) |
 8 | Михаил Митев |  | [Link](https://github.com/mishomitev/doc1/wiki) |
+9 | Dziamko Oleksandra  |  | [Link](https://github.com/SandraDz/Sandra-repository.wiki.git) |
